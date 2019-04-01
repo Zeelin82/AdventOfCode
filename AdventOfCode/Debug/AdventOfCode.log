@@ -1,4 +1,0 @@
-﻿  Day22018.cpp
-d:\c++ projects\adventofcode\adventofcode\day22018.cpp(26): warning C4018: '<=': signed/unsigned mismatch
-d:\c++ projects\adventofcode\adventofcode\day22018.cpp(57): warning C4018: '<': signed/unsigned mismatch
-  AdventOfCode.vcxproj -> D:\C++ Projects\AdventOfCode\Debug\AdventOfCode.exe
